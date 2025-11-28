@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there 👋 I'm Eman M. Shatnawi</h1>
+  <h1>Hey there 👋 This is Eman M. Shatnawi</h1>
   <p><b>Electronics Engineer | IEEE Member | Embedded Systems Enthusiast</b></p>
 <img width="411" height="420" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/7a086806-02a2-46a9-8f42-362d354f67c9" />
 
