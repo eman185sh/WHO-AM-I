@@ -77,16 +77,14 @@ I love turning ideas into functional hardware/software solutions and exploring h
 </details>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eman185sh&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman185sh&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman185sh&layout=compact&theme=tokyonight" alt="Top Used Languages">
 </p>
-
 
 ---
 
-<h3 align="center">⚡ Thanks for stopping by! ⚡</h3>
-
+<h3 align="center">
+  🌐 Always learning and building. Thanks for stopping by! ⚡
+</h3>
